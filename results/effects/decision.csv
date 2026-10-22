@@ -1,0 +1,5 @@
+step,result
+mens qualifies,True
+womens qualifies,True
+visit test separates mens and womens,True
+send,mens

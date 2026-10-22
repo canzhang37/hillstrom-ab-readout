@@ -1,0 +1,10 @@
+check_name,value,ok
+n_rows,64000,True
+unknown_arm,0,True
+missing_values,0,True
+non_binary_flags,0,True
+negative_spend,0,True
+spend_without_conversion,0,True
+conversion_without_visit,0,True
+unknown_zip_code,0,True
+unknown_channel,0,True

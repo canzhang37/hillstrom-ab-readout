@@ -1,0 +1,17 @@
+metric,alpha,baseline,mde_absolute,mde_relative
+visit,0.05,0.05,0.00591,0.1182
+visit,0.05,0.1,0.00814,0.0814
+visit,0.05,0.15,0.00969,0.0646
+visit,0.05,0.2,0.01085,0.0543
+conversion,0.05,0.005,0.00191,0.3827
+conversion,0.05,0.01,0.0027,0.2699
+conversion,0.05,0.02,0.0038,0.1899
+continuous (SD units),0.05,,0.02713,
+visit,"0.05/3 (Holm, first step)",0.05,0.00683,0.1366
+visit,"0.05/3 (Holm, first step)",0.1,0.0094,0.094
+visit,"0.05/3 (Holm, first step)",0.15,0.01119,0.0746
+visit,"0.05/3 (Holm, first step)",0.2,0.01253,0.0627
+conversion,"0.05/3 (Holm, first step)",0.005,0.00221,0.4419
+conversion,"0.05/3 (Holm, first step)",0.01,0.00312,0.3117
+conversion,"0.05/3 (Holm, first step)",0.02,0.00439,0.2193
+continuous (SD units),"0.05/3 (Holm, first step)",,0.03133,
