@@ -61,4 +61,8 @@ The first `build` writes only the data checks, the sample ratio test and covaria
 | `scripts/` | Data download, power table, key figure |
 | `results/`, `figures/` | Output tables and figures |
 
-The data are not committed. `scripts/download_data.py` fetches them from the original challenge page.
+## Data and license
+
+The data come from Kevin Hillstrom's [MineThatData E-Mail Analytics and Data Mining Challenge](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html) (2008). They are not included in this repository, and `scripts/download_data.py` fetches them from the original challenge page. The test fixture in `tests/fixtures/` is synthetic.
+
+The code is released under the MIT License (see [LICENSE](LICENSE)). The data remain with their original provider.

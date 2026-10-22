@@ -1,8 +1,8 @@
 recency,history_segment,history,mens,womens,zip_code,newbie,channel,segment,visit,conversion,spend
-10,2) $100 - $200,142.44,1,0,Surburban,0,Phone,Womens E-Mail,0,0,0
-6,3) $200 - $350,329.08,1,1,Rural,1,Web,No E-Mail,0,0,0
-7,2) $100 - $200,180.65,0,1,Surburban,1,Web,Womens E-Mail,1,0,0
-9,5) $500 - $750,675.83,1,0,Rural,1,Web,Mens E-Mail,1,1,40
-2,1) $0 - $100,45.34,1,0,Urban,0,Web,Womens E-Mail,1,1,20
-6,2) $100 - $200,134.83,0,1,Surburban,0,Phone,No E-Mail,1,0,0
-9,1) $0 - $100,29.99,1,0,Urban,1,Multichannel,Mens E-Mail,0,0,0
+4,2) $100 - $200,150.00,1,0,Surburban,0,Phone,Womens E-Mail,0,0,0
+8,3) $200 - $350,300.00,1,1,Rural,1,Web,No E-Mail,0,0,0
+7,2) $100 - $200,175.00,0,1,Surburban,1,Web,Womens E-Mail,1,0,0
+9,5) $500 - $750,600.00,1,0,Rural,1,Web,Mens E-Mail,1,1,40
+2,1) $0 - $100,50.00,1,0,Urban,0,Web,Womens E-Mail,1,1,20
+6,2) $100 - $200,125.00,0,1,Surburban,0,Phone,No E-Mail,1,0,0
+9,1) $0 - $100,30.00,1,0,Urban,1,Multichannel,Mens E-Mail,0,0,0
